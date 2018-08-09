@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<user>
+    <email>-</email>
+    <full_name>Daria_G_SuperUser</full_name>
+    <id>1000115</id>
+    <locked>0</locked>
+    <main_assignee_groupId>138</main_assignee_groupId>
+    <name>Daria_G_SuperUser</name>
+    <password>8d7b2c4e3a9c0c27b139748eda9dc96c432e9d4f939ae84a56ce20d7811a28292e8a6524f83889d08bd2cf1904a7b8a70876027ad6ca4efd81883bf120a41d69</password>
+    <role_id>2</role_id>
+    <timezone_id>1</timezone_id>
+    <user_config>
+        <filter_cockpit_enabled>0</filter_cockpit_enabled>
+        <group_cockpit_enabled>0</group_cockpit_enabled>
+        <id>1000115</id>
+        <name>CONFIG_Daria_G_SuperUser</name>
+        <user_group_config>
+            <group_config>
+                <colour>#FF0088</colour>
+                <filter>
+                    <group_config_id>10000005</group_config_id>
+                    <id>10000116</id>
+                    <name>F02: Incident - Erwartetes Stoerungsende</name>
+                </filter>
+                <filter>
+                    <group_config_id>10000005</group_config_id>
+                    <id>10000115</id>
+                    <name>F01: Incident – Offen/Zugewiesen</name>
+                </filter>
+                <filter>
+                    <group_config_id>10000005</group_config_id>
+                    <id>10000117</id>
+                    <name>F03: Task – Offen/Zugewiesen</name>
+                </filter>
+                <filter>
+                    <group_config_id>10000005</group_config_id>
+                    <id>10000118</id>
+                    <name>F04: Task – Stoerung behoben</name>
+                </filter>
+                <filter>
+                    <group_config_id>10000005</group_config_id>
+                    <id>10000120</id>
+                    <name>F05: Task – Outgoing in Offen</name>
+                </filter>
+                <filter>
+                    <group_config_id>10000005</group_config_id>
+                    <id>10000122</id>
+                    <name>F10: Incident - Lösungserfolg bewerten</name>
+                </filter>
+                <filter>
+                    <group_config_id>10000005</group_config_id>
+                    <id>10000125</id>
+                    <name>F09: Task - Update Fremdsystem</name>
+                </filter>
+                <group_name>FM_DUESSELDORF</group_name>
+                <id>10000005</id>
+            </group_config>
+            <group_config_id>10000005</group_config_id>
+            <id>10000461</id>
+            <user_config_id>1000115</user_config_id>
+        </user_group_config>
+        <user_group_config>
+            <group_config>
+                <colour>#FFFFFF</colour>
+                <filter>
+                    <group_config_id>149</group_config_id>
+                    <id>10000126</id>
+                    <name>F01: Incident – Offen/Zugewiesen</name>
+                </filter>
+                <filter>
+                    <group_config_id>149</group_config_id>
+                    <id>10000127</id>
+                    <name>F02: Incident - Erwartetes Stoerungsende</name>
+                </filter>
+                <filter>
+                    <group_config_id>149</group_config_id>
+                    <id>10000128</id>
+                    <name>F03: Task – Offen/Zugewiesen</name>
+                </filter>
+                <filter>
+                    <group_config_id>149</group_config_id>
+                    <id>10000129</id>
+                    <name>F04: Task – Stoerung behoben</name>
+                </filter>
+                <filter>
+                    <group_config_id>149</group_config_id>
+                    <id>10000130</id>
+                    <name>F05: Task – Outgoing in Offen</name>
+                </filter>
+                <filter>
+                    <group_config_id>149</group_config_id>
+                    <id>10000131</id>
+                    <name>F09: Task - Update Fremdsystem</name>
+                </filter>
+                <filter>
+                    <group_config_id>149</group_config_id>
+                    <id>10000132</id>
+                    <name>F10: Incident - Lösungserfolg bewerten</name>
+                </filter>
+                <group_name>FM_STUTTGART</group_name>
+                <id>149</id>
+            </group_config>
+            <group_config_id>149</group_config_id>
+            <id>10000462</id>
+            <user_config_id>1000115</user_config_id>
+        </user_group_config>
+        <user_group_config>
+            <group_config>
+                <colour>#00FFFF</colour>
+                <filter>
+                    <group_config_id>460</group_config_id>
+                    <id>10000133</id>
+                    <name>F01: Incident – Offen/Zugewiesen</name>
+                </filter>
+                <filter>
+                    <group_config_id>460</group_config_id>
+                    <id>10000134</id>
+                    <name>F02: Incident - Erwartetes Stoerungsende</name>
+                </filter>
+                <filter>
+                    <group_config_id>460</group_config_id>
+                    <id>10000135</id>
+                    <name>F03: Task – Offen/Zugewiesen</name>
+                </filter>
+                <filter>
+                    <group_config_id>460</group_config_id>
+                    <id>10000136</id>
+                    <name>F04: Task – Stoerung behoben</name>
+                </filter>
+                <filter>
+                    <group_config_id>460</group_config_id>
+                    <id>10000137</id>
+                    <name>F05: Task – Outgoing in Offen</name>
+                </filter>
+                <filter>
+                    <group_config_id>460</group_config_id>
+                    <id>10000140</id>
+                    <name>F10: Incident - Lösungserfolg bewerten</name>
+                </filter>
+                <filter>
+                    <group_config_id>460</group_config_id>
+                    <id>10000139</id>
+                    <name>F09: Task - Update Fremdsystem</name>
+                </filter>
+                <group_name>FM_BONN_SERVICES</group_name>
+                <id>460</id>
+            </group_config>
+            <group_config_id>460</group_config_id>
+            <id>10000463</id>
+            <user_config_id>1000115</user_config_id>
+        </user_group_config>
+        <user_group_config>
+            <group_config>
+                <colour>#880088</colour>
+                <filter>
+                    <group_config_id>138</group_config_id>
+                    <id>10000047</id>
+                    <name>F01: Incident – Offen/Zugewiesen</name>
+                </filter>
+                <filter>
+                    <group_config_id>138</group_config_id>
+                    <id>10000054</id>
+                    <name>F04: Task – Stoerung behoben</name>
+                </filter>
+                <filter>
+                    <group_config_id>138</group_config_id>
+                    <id>10000049</id>
+                    <name>F03: Task – Offen/Zugewiesen</name>
+                </filter>
+                <filter>
+                    <group_config_id>138</group_config_id>
+                    <id>10000056</id>
+                    <name>F05: Task – Outgoing in Offen intern</name>
+                </filter>
+                <filter>
+                    <group_config_id>138</group_config_id>
+                    <id>10000221</id>
+                    <name>F13: [KU] Inc: Stoerung behoben [LZM]</name>
+                </filter>
+                <filter>
+                    <group_config_id>138</group_config_id>
+                    <id>10000220</id>
+                    <name>F12: [KU] Inc: Erwartetes Stoerungsende </name>
+                </filter>
+                <filter>
+                    <group_config_id>138</group_config_id>
+                    <id>10000222</id>
+                    <name>F14: [PL] Inc: Offen/Zugewiesen [GK]</name>
+                </filter>
+                <filter>
+                    <group_config_id>138</group_config_id>
+                    <id>10000223</id>
+                    <name>F15: [PL] Inc: Erwartetes Stoerungsende [NKR]</name>
+                </filter>
+                <filter>
+                    <group_config_id>138</group_config_id>
+                    <id>10000224</id>
+                    <name>F16: [PL] Inc: Erwartetes Stoerungsende [KR]</name>
+                </filter>
+                <filter>
+                    <group_config_id>138</group_config_id>
+                    <id>10000226</id>
+                    <name>F18: [KU] Inc: Sonderbehandlung</name>
+                </filter>
+                <filter>
+                    <group_config_id>138</group_config_id>
+                    <id>10000143</id>
+                    <name>F06: Incident - Diagnoseergebnis fällig</name>
+                </filter>
+                <filter>
+                    <group_config_id>138</group_config_id>
+                    <id>10000142</id>
+                    <name>F09: Task - Update Fremdsystem</name>
+                </filter>
+                <filter>
+                    <group_config_id>138</group_config_id>
+                    <id>10000144</id>
+                    <name>F07: Incident - Zwischenmeldung fällig</name>
+                </filter>
+                <filter>
+                    <group_config_id>138</group_config_id>
+                    <id>10000145</id>
+                    <name>F08: Incident - Update Fremdsystem</name>
+                </filter>
+                <filter>
+                    <group_config_id>138</group_config_id>
+                    <id>10000211</id>
+                    <name>XX-Testfilter RC 18.1 Task assignee group</name>
+                </filter>
+                <filter>
+                    <group_config_id>138</group_config_id>
+                    <id>10000209</id>
+                    <name>XX-Testfilter RC 18.1 Task originator group</name>
+                </filter>
+                <filter>
+                    <group_config_id>138</group_config_id>
+                    <id>10000141</id>
+                    <name>F10: Incident - Lösungserfolg bewerten</name>
+                </filter>
+                <filter>
+                    <group_config_id>138</group_config_id>
+                    <id>10000202</id>
+                    <name>XX-F-PM: Problem – Offen/Beauftragt Testfilter</name>
+                </filter>
+                <filter>
+                    <group_config_id>138</group_config_id>
+                    <id>10000203</id>
+                    <name>XX-F-CM: Change– Initial/erfasst Testfilter</name>
+                </filter>
+                <filter>
+                    <group_config_id>138</group_config_id>
+                    <id>10000204</id>
+                    <name>XX-F-PM-Task: Task – Offen/Beauftragt Testfilter</name>
+                </filter>
+                <filter>
+                    <group_config_id>138</group_config_id>
+                    <id>10000206</id>
+                    <name>XX-F-CM-Task: Task – Initial/erfasst Testfilter</name>
+                </filter>
+                <filter>
+                    <group_config_id>138</group_config_id>
+                    <id>10000225</id>
+                    <name>F17: [PL] Inc: Erwartetes Stoerungsende [EVU]</name>
+                </filter>
+                <filter>
+                    <group_config_id>138</group_config_id>
+                    <id>10000219</id>
+                    <name>F05: Task – Outgoing in Offen Interface</name>
+                </filter>
+                <group_name>FM_BONN_ACCESS</group_name>
+                <id>138</id>
+            </group_config>
+            <group_config_id>138</group_config_id>
+            <id>10000464</id>
+            <user_config_id>1000115</user_config_id>
+        </user_group_config>
+        <user_group_config>
+            <group_config>
+                <colour>#8800FF</colour>
+                <filter>
+                    <group_config_id>365</group_config_id>
+                    <id>10000035</id>
+                    <name>001: Meine offenen IM aus EMMA</name>
+                </filter>
+                <group_name>Anwenderspezifisch</group_name>
+                <id>365</id>
+            </group_config>
+            <group_config_id>365</group_config_id>
+            <id>10000465</id>
+            <user_config_id>1000115</user_config_id>
+        </user_group_config>
+        <user_id>1000115</user_id>
+    </user_config>
+</user>
